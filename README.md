@@ -27,3 +27,6 @@
 ##III.STEP
 1.輸入材質的折射率，計算出光線入射所需的最小角度為何？(易)
 2.輸入光纖彎折的曲率與位置，讓程式判斷光訊號是否能順利傳送過去？會不會有光線的損害？(複雜)
+
+PPT連結
+https://docs.google.com/presentation/d/1qAKOvg7UXoG_RIberGQNemqvSOViAe5WE07TFtSRCt8/edit?usp=sharing
