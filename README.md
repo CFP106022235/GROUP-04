@@ -36,4 +36,4 @@
 陳映全--主題提供、簡報製作、直線區段設計、程式修飾<br/>
 
 PPT連結
-https://docs.google.com/presentation/d/1acoNoffpBrhz62TRQPPjx288jlWsYWZ-hVAANfm90ZI/edit#slide=id.p2
+https://docs.google.com/presentation/d/1acoNoffpBrhz62TRQPPjx288jlWsYWZ-hVAANfm90ZI/edit?usp=sharing
